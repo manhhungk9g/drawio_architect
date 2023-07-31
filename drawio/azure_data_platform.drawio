@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T03:47:08.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="fV-7MzZGkvrGVPCFG5C0" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T03:48:14.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="mY0K8VR9XOKe_jnqszix" version="21.6.6" type="github">
   <diagram name="Page-1" id="vbewadXqxQKbsspDtFwr">
     <mxGraphModel dx="2876" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="VQkqaN84CaBkrBaP3wh3-9" value="&lt;b&gt;Ingest&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-13">
           <mxGeometry x="60" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-17" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Event_Hubs.svg;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-13">
+          <mxGeometry x="76" y="90" width="48" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-18" value="Event Hubs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-13">
+          <mxGeometry x="60" y="150" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQkqaN84CaBkrBaP3wh3-14" value="" style="group" vertex="1" connectable="0" parent="VQkqaN84CaBkrBaP3wh3-1">
           <mxGeometry x="280" y="40" width="200" height="520" as="geometry" />
