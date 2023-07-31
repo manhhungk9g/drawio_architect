@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T07:25:03.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="UQEhaGc3i5sF6JFonLWE" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T07:27:16.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="Yq_zCndMZSZYwpYhMrrw" version="21.6.6" type="github">
   <diagram name="Page-1" id="vbewadXqxQKbsspDtFwr">
     <mxGraphModel dx="2876" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,6 +153,24 @@
         </mxCell>
         <mxCell id="VQkqaN84CaBkrBaP3wh3-78" value="Azure DevOps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-1">
           <mxGeometry x="235" y="690" width="90" height="32.31" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-81" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-1">
+          <mxGeometry x="561" y="640" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-82" value="Azure Key Vaults" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-1">
+          <mxGeometry x="540" y="690" width="100" height="33.31" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-83" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-1">
+          <mxGeometry x="710" y="640.5" width="54.5" height="54.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-84" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Management.svg;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-1">
+          <mxGeometry x="840" y="640" width="55.83" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-85" value="Azure Monitor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-1">
+          <mxGeometry x="688.01" y="690" width="100" height="33.31" as="geometry" />
+        </mxCell>
+        <mxCell id="VQkqaN84CaBkrBaP3wh3-86" value="Azure Cost Management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQkqaN84CaBkrBaP3wh3-1">
+          <mxGeometry x="820" y="690" width="100" height="33.31" as="geometry" />
         </mxCell>
         <mxCell id="VQkqaN84CaBkrBaP3wh3-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-120" y="240" width="200" height="680" as="geometry" />
