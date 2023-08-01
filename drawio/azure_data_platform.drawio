@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T03:33:37.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="3fuVg71QTXjbLwmv1CZD" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-01T04:15:58.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="kZXMmqTxJ2a9wHd3LTDr" version="21.6.6" type="github" pages="2">
   <diagram name="High level architecture" id="vbewadXqxQKbsspDtFwr">
-    <mxGraphModel dx="2876" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3116" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,7 +224,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LCOmhQKJsQQ8W9IOoc6F" name="SSC pipeline diagram">
-    <mxGraphModel dx="1688" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
