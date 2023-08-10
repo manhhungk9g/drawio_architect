@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T04:27:54.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="DaOUSmvd-GDprrXqbmFs" version="21.6.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-10T04:28:12.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="3BOdVowNS7b4Rr6RHk6O" version="21.6.7" type="github" pages="3">
   <diagram name="High level architecture" id="vbewadXqxQKbsspDtFwr">
     <mxGraphModel dx="2092" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -335,8 +335,8 @@
         </mxCell>
         <mxCell id="mgoZMQRALTh6_RnEhI-N-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="mgoZMQRALTh6_RnEhI-N-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450.00000000000006" y="340" as="sourcePoint" />
-            <mxPoint x="450.00000000000006" y="280" as="targetPoint" />
+            <mxPoint x="453.00000000000006" y="340" as="sourcePoint" />
+            <mxPoint x="453.00000000000006" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mgoZMQRALTh6_RnEhI-N-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="mgoZMQRALTh6_RnEhI-N-2">
