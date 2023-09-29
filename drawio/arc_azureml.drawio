@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T03:51:13.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="iIKK7fskz_xTg0ktniWp" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T03:52:05.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="WftPHJmthku6XjChWuoU" version="21.7.5" type="github">
   <diagram name="Page-1" id="SYN3rm7g-ZvdgClIrywO">
     <mxGraphModel dx="2086" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="cvwjAhhxXAGO04wme3hT-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.335;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cvwjAhhxXAGO04wme3hT-1" source="cvwjAhhxXAGO04wme3hT-69" target="cvwjAhhxXAGO04wme3hT-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cvwjAhhxXAGO04wme3hT-90" value="Azure ML Kubenetes Extension" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cvwjAhhxXAGO04wme3hT-89">
+        <mxCell id="cvwjAhhxXAGO04wme3hT-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure ML Kubenetes Extension&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cvwjAhhxXAGO04wme3hT-89">
           <mxGeometry x="-0.1588" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -90,7 +90,7 @@
             <mxPoint x="462.23" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cvwjAhhxXAGO04wme3hT-96" value="Kubernetes compute targets" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cvwjAhhxXAGO04wme3hT-93">
+        <mxCell id="cvwjAhhxXAGO04wme3hT-96" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Kubernetes compute targets&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cvwjAhhxXAGO04wme3hT-93">
           <mxGeometry x="-0.0737" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -130,17 +130,6 @@
         </mxCell>
         <mxCell id="cvwjAhhxXAGO04wme3hT-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Google Kubernetes Engine (EKS)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="630" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cvwjAhhxXAGO04wme3hT-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.335;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="410" as="sourcePoint" />
-            <mxPoint x="531" y="489" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cvwjAhhxXAGO04wme3hT-92" value="Azure ML Kubenetes Extension" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cvwjAhhxXAGO04wme3hT-91">
-          <mxGeometry x="-0.1588" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
