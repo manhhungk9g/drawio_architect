@@ -1,9 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T03:51:58.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" version="22.0.4" etag="dmIqLcn4qZWh0dauwrNz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T04:08:59.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="RkxCqZRuwwX5f-5auxa_" version="22.0.4" type="github">
   <diagram name="Page-1" id="Th5j2coUXf_mGjpxdkZD">
-    <mxGraphModel>
+    <mxGraphModel dx="2022" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="340" as="sourcePoint" />
+            <mxPoint x="512" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="279" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Azure Data Factory&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="399" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzvIIdr8q4Pm2w3YZNNm-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/iot/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="59" width="113.33" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://alternative.me/media/256/surveycto-icon-n2vogk278ug0z82w-c.png;clipPath=inset(33.59% 0% 33.98% 0%);" vertex="1" parent="1">
+          <mxGeometry x="-180" y="76" width="256" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="128" as="sourcePoint" />
+            <mxPoint x="230" y="128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="100" as="sourcePoint" />
+            <mxPoint x="90" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="294" y="270" as="sourcePoint" />
+            <mxPoint x="294.40999999999997" y="159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;HTTP Trigger&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzvIIdr8q4Pm2w3YZNNm-10">
+          <mxGeometry x="-0.0049" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Rest API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="109" y="66" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="360" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_lake_resource_icon;" vertex="1" parent="1">
+          <mxGeometry x="521" y="279" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Azure &lt;br&gt;Data Lake Storage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="399" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.spins.com/wp-content/uploads/2020/05/Artboard-Copy.png;" vertex="1" parent="1">
+          <mxGeometry x="700" y="279" width="235.04" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KzvIIdr8q4Pm2w3YZNNm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="350" as="sourcePoint" />
+            <mxPoint x="750" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
